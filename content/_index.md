@@ -48,18 +48,15 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: React JS
+          icon: react
           icon_pack: fab
         - name: Coding
-          description: 80%
           icon: laptop-code
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+        - name: Java
+          icon: java
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
