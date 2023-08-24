@@ -30,5 +30,4 @@ url_video: ''
 slides: example
 ---
 
-#Descrition here
 This project is yet to be uploaded
