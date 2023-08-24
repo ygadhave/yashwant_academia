@@ -245,8 +245,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Open to networking, internships and job opportunities in the United States
+      text:
      # Contact (add or remove contact options as necessary)
        email: ygadhave@asu.edu
        phone:
