@@ -245,18 +245,6 @@ sections:
     content:
       title: Contact
       subtitle:
-    
-  # Automatically link email and phone or display as text?
-  autolink: true
-
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
 
   # Contact details (edit or remove options as required)
   email: yashwantng2003@gmail.com
@@ -273,7 +261,22 @@ sections:
       icon_pack: fab
       name: DM Me
       link: 'https://instagram.com/yashwanttttt'
-    
+    - icon: video
+      icon_pack: fas
+      name: Zoom Me
+      link: 'https://zoom.com'
+      
+  # Automatically link email and phone or display as text?
+  autolink: true
+
+  # Email form provider
+  form:
+    provider: netlify
+    formspree:
+      id:
+    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: true
 
 design:
   columns: '2'
