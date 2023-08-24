@@ -244,21 +244,21 @@ sections:
     id: contact
     content:
       title: Contact
-      # subtitle:
+      subtitle:
       text: |-
         Open to networking, internships and job opportunities in the United States
       # Contact (add or remove contact options as necessary)
     email: ygadhave@asu.oedu
-     # phone: 888 888 88 88
-     # appointment_url: 'https://calendly.com'
-     # address:
-      #  street: 450 Serra Mall
-      #  city: Stanford
-      #  region: CA
-      #  postcode: '94305'
-      # country: United States
-      #  country_code: US
-      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+       phone:
+       appointment_url:
+       address:
+         street:
+         city:
+         region:
+         postcode:
+        country: 
+        country_code: 
+      directions:
       Availble:
         - 'Monday-Friday 9:00 to 17:00'
       contact_links:
