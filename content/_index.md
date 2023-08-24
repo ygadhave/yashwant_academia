@@ -245,40 +245,37 @@ sections:
     content:
       title: Contact
       subtitle:
-      text:
-     # Contact (add or remove contact options as necessary)
-       email: yashwaantng2003@gmail.com
-       phone:
-       appointment_url:
-       address:
-         street:
-         city:
-         region:
-         postcode:
-        country: 
-        country_code: 
-      directions:
-      Available:
-        - 'Monday-Friday 9:00 to 17:00'
-      contact_links:
-        - icon: instagram
-          icon_pack: fab
-          name: DM Me
-          link: 'https://instagram.com/yashwanttttt'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
-    design:
-      columns: '2'
+
+content:
+  # Automatically link email and phone or display as text?
+  autolink: true
+
+  # Email form provider
+  form:
+    provider: netlify
+    formspree:
+      id:
+    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: true
+
+  # Contact details (edit or remove options as required)
+  email: yashwantng2003@gmail.com
+  phone: 
+  address:
+    street: 
+    city: 
+    region: 
+    postcode: 
+    country: 
+    country_code: 
+  contact_links:
+    - icon: instagram
+      icon_pack: fab
+      name: DM Me
+      link: 'https://instagram.com/yashwanttttt'
+    
+
+design:
+  columns: '2'
 ---
