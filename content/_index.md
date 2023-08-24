@@ -37,7 +37,6 @@ sections:
 #       gradient_end: '#1976d2'
 #       gradient_start: '#004ba0'
 #       text_color_light: true
-        
   - block: about.biography
     id: about
     content:
@@ -92,7 +91,7 @@ sections:
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '2'
+      columns: '2'  
   - block: accomplishments
     id: accomplishments
     content:
@@ -133,24 +132,23 @@ sections:
           url: ''
     design:
       columns: '2'
-    
-  #- block: collection
-    #id: posts
-    #content:
-      #title: Recent Posts
-      #subtitle: ''
-      #text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      #count: 5
-      # Filter on criteria
-      #filters:
-        #folders:
-         # - post
-        #author: ""
-        #category: ""
-        #tag: ""
-        #exclude_featured: false
-        #exclude_future: false
+  # - block: collection
+  # id: posts
+  # content:
+  # title: Recent Posts
+  # subtitle: ''
+  # text: ''
+  # Choose how many pages you would like to display (0 = all pages)
+  # count: 5
+  # Filter on criteria
+  # filters:
+  # folders:
+  # - post
+        # author: ""
+        # category: ""
+        # tag: ""
+        # exclude_featured: false
+        # exclude_future: false
        # exclude_past: false
       #  publication_type: ""
       # Choose how many pages you would like to offset by
