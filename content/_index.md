@@ -244,6 +244,18 @@ sections:
     content:
       title: Contact
       subtitle:
+
+    # Automatically link email and phone or display as text?
+      autolink: true
+    
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: true
       # Contact (add or remove contact options as necessary)
       email: yashwantng2003@gmail.com
       address:
@@ -265,16 +277,7 @@ sections:
           icon_pack: fas
           name: Zoom Me
           link: 'https://asu.zoom.us/j/9875559133'
-    # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
+    
     design:
       columns: '2'
 ---
