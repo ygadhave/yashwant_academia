@@ -244,7 +244,7 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
+      # subtitle:
       text: |-
         Open to networking, internships and job opportunities in the United States
       # Contact (add or remove contact options as necessary)
