@@ -247,7 +247,7 @@ sections:
       subtitle:
       text:
      # Contact (add or remove contact options as necessary)
-       email: ygadhave@asu.edu
+       email: ygadhave[at]asu.edu
        phone:
        appointment_url:
        address:
