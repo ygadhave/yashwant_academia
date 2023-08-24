@@ -248,7 +248,7 @@ sections:
       text: |-
         Open to networking, internships and job opportunities in the United States
      # Contact (add or remove contact options as necessary)
-       email: ygadhave@asu.oedu
+       email: ygadhave@asu.edu
        phone:
        appointment_url:
        address:
@@ -259,7 +259,7 @@ sections:
         country: 
         country_code: 
       directions:
-      office_hours:
+      Available:
         - 'Monday-Friday 9:00 to 17:00'
       contact_links:
         - icon: instagram
