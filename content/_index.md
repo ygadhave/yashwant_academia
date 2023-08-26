@@ -54,9 +54,6 @@ sections:
         - name: Java
           icon: java
           icon_pack: fab
-        - name: SQL
-          icon: database
-          icon_pack: fas
         - name: Debbuging
           icon: laptop-code
           icon_pack: fas
