@@ -70,8 +70,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: UGTA
-          company: ASU
+        - title: Udergraduate Teaching Assistant
+          company: ARIZONA STATE UNIVERSITY
           company_url: 'www.asu.edu'
           company_logo: org-gc
           location: Arizona
