@@ -45,18 +45,23 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
+    id: Skills
     content:
       title: Skills
       items:
         - name: React JS
           icon: react
           icon_pack: fab
-        - name: Coding
-          icon: laptop-code
-          icon_pack: fas
         - name: Java
           icon: java
           icon_pack: fab
+        - name: SQL
+          icon: database
+          icon_pack: fas
+        - name: Debbuging
+          icon: laptop-code
+          icon_pack: fas
+    
   - block: experience
     id: experience
     content:
