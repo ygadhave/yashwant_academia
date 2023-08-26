@@ -72,7 +72,7 @@ sections:
       items:
         - title: Udergraduate Teaching Assistant
           company: ARIZONA STATE UNIVERSITY
-          company_url: 'www.asu.edu'
+          company_url: 'asu.edu'
           company_logo: org-asu
           location: Arizona
           date_start: '2023-01-10'
