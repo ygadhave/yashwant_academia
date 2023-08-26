@@ -107,6 +107,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: https://coursera.org/share/5c08a4fc1ca8bbfd4ff2afa4fb31a66b
+          date_end: ''
+          date_start: '2023-08-25'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Introduction to Structured Query Language (SQL)
+          url: ''
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
