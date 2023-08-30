@@ -252,7 +252,7 @@ sections:
         country_code:
       directions:
       office_hours:
-        - 'Monday - Friday 10:00 to 17:00'
+        - 'Monday - Friday 10:00am to 5:00pm'
       contact_links:
         - icon: instagram
           icon_pack: fab
