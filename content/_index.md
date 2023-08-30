@@ -52,7 +52,7 @@ sections:
           icon: react
           icon_pack: fab
         - name: Java
-          icon: react
+          icon: java
           icon_pack: fab
         - name: Debbuging
           icon: laptop-code
