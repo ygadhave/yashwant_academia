@@ -81,6 +81,7 @@ sections:
           description: |2-
               Responsibilities include:
 
+              * Helping Students
               * Problem Solving
               * Mentoring
               * Tutoring
