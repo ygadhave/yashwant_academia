@@ -54,7 +54,7 @@ sections:
         - name: Java
           icon: java
           icon_pack: fab
-        - name: Debbuging
+        - name: Debug
           icon: laptop-code
           icon_pack: fas
     
@@ -80,8 +80,7 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Helping Students
+    
               * Problem Solving
               * Mentoring
               * Tutoring
