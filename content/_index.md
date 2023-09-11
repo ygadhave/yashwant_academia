@@ -54,7 +54,7 @@ sections:
         - name: Java
           icon: java
           icon_pack: fab
-        - name: Debug
+        - name: Debugging
           icon: laptop-code
           icon_pack: fas
     
